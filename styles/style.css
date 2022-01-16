@@ -145,10 +145,10 @@ Media quiries
         grid-template-columns: repeat(2, 1fr);
         padding-left: 90px;
     }
-    .blog, .course{
-        padding-left: 30px;
-        margin-right: 10px;
+    .blogs{
+        grid-template-columns: repeat(1, 1fr);
     }
+    
     .courses{
         grid-template-columns: repeat(2, 1fr);
     }
